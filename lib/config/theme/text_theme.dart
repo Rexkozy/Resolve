@@ -4,7 +4,7 @@ part of 'app_theme.dart';
 class _TextTheme {
   //DARK MODE PRIMARY
 
-  static final TextTheme? _primaryTextDarkTheme = TextTheme(
+  static final TextTheme _primaryTextDarkTheme = TextTheme(
     ///DISPLAY
     displayLarge: TextStyle(
       fontSize: 32.sp,

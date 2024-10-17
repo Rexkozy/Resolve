@@ -46,5 +46,11 @@ app.*.map.json
 /android/app/release
 pubspec.lock
 
+# firebase related
+/android/app/google-services.json
+# ios/Runner/Info.plist
+lib/firebase_options.dart
+# ios/Runner/GoogleService-Info.plist
+
 # Flutter Version Control
 .fvm

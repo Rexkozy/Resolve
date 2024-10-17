@@ -11,7 +11,7 @@ class AppTheme {
     brightness: Brightness.dark,
     colorScheme: _ColorScheme._darkColorScheme,
     textTheme:
-        _TextTheme._primaryTextDarkTheme ?? _TextTheme._whiteTextDarkTheme,
+        _TextTheme._primaryTextDarkTheme,
     fontFamily: 'Poppins',
     scaffoldBackgroundColor: Colors.grey.shade900,
   );
